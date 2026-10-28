@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "my-custom-memes",
+  "name": "我的专属表情包",
+  "version": "1.0.0",
+  "description": "包含开心、生气、撒娇等七种情绪的日常表情包合集",
+  "tags": ["日常", "情绪", "搞笑"],
+  "categories": {
+    "happy": {
+      "description": "用于表达开心、高兴、庆祝的场景"
+    },
+    "angry": {
+      "description": "用于表达生气、愤怒、不理人的场景"
+    },
+    "acting_cute": {
+      "description": "用于表达撒娇、卖萌、求抱抱的场景"
+    },
+    "apologize": {
+      "description": "用于表达道歉、认错、对不起的场景"
+    },
+    "sad": {
+      "description": "用于表达不开心、难过、失落的场景"
+    },
+    "proud": {
+      "description": "用于表达得意、骄傲、 smug 的场景"
+    },
+    "confused": {
+      "description": "用于表达疑惑、不解、满头问号的场景"
+    }
+  }
+}
